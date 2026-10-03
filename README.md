@@ -5,6 +5,12 @@
 [Model on Hugging Face](https://huggingface.co/ghostsas001/docverify) ·
 [YOLO field detector](https://huggingface.co/ghostsas001/docverify-yolo-fields)
 
+> [!TIP]
+> ### 📖 [Read the full case study on elghoudani.com →](https://elghoudani.com/work/docverify)
+> The whole story on one easy-to-read page: how a payslip is checked step by step, four real
+> examples next to the ground truth, every result chart, and where the same system fits in banking
+> and insurance.
+
 ![A rewritten amount the image model misses — the sums don't](https://huggingface.co/ghostsas001/docverify/resolve/main/figures/ex_doc01788.jpg)
 
 Editing a payslip takes two minutes with a free PDF editor. docverify checks every page with
